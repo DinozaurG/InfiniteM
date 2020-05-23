@@ -1,2 +1,2 @@
-# Chi
-StatForQube(Chi Upgraged)
+# InfiniteM
+StatForQube(InfiniteM Upgraged)
