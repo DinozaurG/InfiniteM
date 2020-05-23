@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label16 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
@@ -122,9 +122,19 @@
             0,
             0,
             0});
+            this.numOfExp.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             this.numOfExp.Name = "numOfExp";
             this.numOfExp.Size = new System.Drawing.Size(91, 22);
             this.numOfExp.TabIndex = 31;
+            this.numOfExp.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
             // labelForEq6
             // 
@@ -244,18 +254,18 @@
             // 
             // chartForStat
             // 
-            chartArea2.Name = "ChartArea1";
-            this.chartForStat.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            this.chartForStat.Legends.Add(legend2);
+            chartArea3.Name = "ChartArea1";
+            this.chartForStat.ChartAreas.Add(chartArea3);
+            legend3.Name = "Legend1";
+            this.chartForStat.Legends.Add(legend3);
             this.chartForStat.Location = new System.Drawing.Point(13, 131);
             this.chartForStat.Name = "chartForStat";
-            series2.ChartArea = "ChartArea1";
-            series2.IsValueShownAsLabel = true;
-            series2.LabelFormat = "f4";
-            series2.Legend = "Legend1";
-            series2.Name = "Series1";
-            this.chartForStat.Series.Add(series2);
+            series3.ChartArea = "ChartArea1";
+            series3.IsValueShownAsLabel = true;
+            series3.LabelFormat = "f4";
+            series3.Legend = "Legend1";
+            series3.Name = "Series1";
+            this.chartForStat.Series.Add(series3);
             this.chartForStat.Size = new System.Drawing.Size(1770, 300);
             this.chartForStat.TabIndex = 1;
             this.chartForStat.Text = "chart1";
