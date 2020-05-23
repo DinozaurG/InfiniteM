@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("InfiniteM")]
+[assembly: AssemblyTitle("statForQube")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("InfiniteM")]
+[assembly: AssemblyProduct("statForQube")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("fa44aa06-2181-4e7b-8794-f29dc8889ea0")]
+[assembly: Guid("f8b9ba0d-59b5-4cd1-8fb1-b6eb778e6bd3")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

@@ -1,0 +1,2 @@
+# Chi
+StatForQube(Chi Upgraged)
